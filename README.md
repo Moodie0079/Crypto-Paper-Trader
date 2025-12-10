@@ -1,5 +1,9 @@
 # PaperTrader
 
+
+https://github.com/user-attachments/assets/6f573452-e022-477b-b1b6-8fbc59c18cee
+
+
 A paper trading simulator for cryptocurrency.
 
 ## Overview
